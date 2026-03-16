@@ -1,17 +1,25 @@
+aid: mandatory-reserves-requirement
 name: Mandatory Reserves Requirement
-description: A central bank regulation requiring commercial banks to hold a minimum
-  percentage of customer deposits as reserves, either as cash in their vaults or as
-  deposits with the central bank, to ensure liquidity and stability in the banking
-  system. It is used across a range of industries and technical contexts to improve
-  efficiency and outcomes.
-url: https://www.imf.org/en/Topics/monetary-policy
+description: >-
+  A central bank regulation requiring commercial banks to hold a minimum
+  percentage of customer deposits as reserves, either as cash in their vaults or
+  as deposits with the central bank, to ensure liquidity and stability in the
+  banking system.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/mandatory-reserves-requirement/refs/heads/main/apis.yml
 tags:
-- Central Banking
-- Banking Regulation
-- Monetary Policy
-- Financial Stability
-- Reserve Requirements
-created: '2025'
-modified: '2025'
+  - Central Banking
+  - Banking Regulation
+  - Monetary Policy
+  - Financial Stability
+  - Reserve Requirements
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
