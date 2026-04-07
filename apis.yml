@@ -10,10 +10,10 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mandatory-reserves-requirement/refs/heads/main/apis.yml
 tags:
-  - Central Banking
   - Banking Regulation
-  - Monetary Policy
+  - Central Banking
   - Financial Stability
+  - Monetary Policy
   - Reserve Requirements
 created: '2025-01-01'
 modified: '2026-03-16'
